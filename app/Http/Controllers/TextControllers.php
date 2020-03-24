@@ -5,14 +5,13 @@ namespace App\Http\Controllers;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 
-use App\text;
+use App\Text;
 use Storage;
-
-class textsControllers extends Controller
+class TextControllers extends Controller
 {
     public function create(Request $req)
     {
-        $stu = new text();
+        $stu = new Text();
         $fileName= 'text.txt';
         // $k = 0;
         // while(!$fileName){
@@ -33,12 +32,12 @@ class textsControllers extends Controller
         system("testScript.sh");
 
         $stu->pathVoice=$locationsVoice;
-        $stu->save();
+        // $stu->save();
         return response()->json($stu);
     }
     public function read()
     {
-        $stu = text::all();
+        $stu = Text::all();
         $data = array('status'=>'success','data'=>$stu);
        return response()->json($data);
     }
