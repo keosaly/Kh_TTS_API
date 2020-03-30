@@ -18,8 +18,8 @@ class TextControllers extends Controller
         system("testScript.py");
         #Run Script Sh
         system("testScript.sh");
-        $stu= "Sucess Save Text";
-        return response()->json($stu);
+        $data = ['pathVoice'=>'http://103.16.63.233:8027/medias/vivok.mp3'];
+        return response()->json($data);
     }
     public function read()
     {
