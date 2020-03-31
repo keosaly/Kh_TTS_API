@@ -21,9 +21,9 @@ class TextControllers extends Controller
         $data = ['pathVoice'=>'http://103.16.63.233:8027/medias/vivok.mp3'];
         return response()->json($data);
     }
-    public function read()
-    {
-        $data = ['pathVoice'=>'http://127.0.0.1:8000/medias/vivok.mp3'];
-        return response()->json($data);
-    }
+    // public function read()
+    // {
+    //     $data = ['pathVoice'=>'http://127.0.0.1:8000/medias/vivok.mp3'];
+    //     return response()->json($data);
+    // }
 }
