@@ -10,15 +10,16 @@ class TextControllers extends Controller
     public function create(Request $req)
     {
         $fileName= 'input.txt';
-        $myfile = fopen($_SERVER['DOCUMENT_ROOT']."/TTS_DEMO/HTS_Demo/".$fileName, "w") or die("Unable to open file!");
+        $myfile = fopen($_SERVER['DOCUMENT_ROOT']."/TTS_DEMO/kh_new_seg/HTS_Demo/".$fileName, "w") or die("Unable to open file!");
         $txt = $req->input('text');
         fwrite($myfile, $txt);
         fclose($myfile);
         #Run Scirpt Python
         // system("testScript.py");
         #Run Script Sh
-        system("/TTS_DEMO/HTS_Demo/runDemo.sh");
-        $data = ['pathVoice'=>'http://103.16.63.233:8027/TTS_DEMO/HTS_Demo/KH_WAV_RESULT.wav'];
+        system($_SERVER['DOCUMENT_ROOT'].'/TTS_DEMO/kh_new_seg/HTS_Demo/runDemo.sh');
+        // system("script.sh");
+        $data = ['pathVoice'=>'http://103.16.63.233:8027/TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav'];
         return response()->json($data);
     }
     // public function read()
