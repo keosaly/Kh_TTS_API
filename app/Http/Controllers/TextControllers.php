@@ -10,7 +10,7 @@ class TextControllers extends Controller
     public function create(Request $req)
     {
         $fileName= 'input.txt';
-        $myfile = fopen("/server/application/tts/tool/kh_new_seg/HTS_Demo/".$fileName, "w") or die("Unable to open file!");
+        $myfile = fopen($_SERVER['DOCUMENT_ROOT']."/server/application/tts/tool/kh_new_seg/HTS_Demo/".$fileName, "w") or die("Unable to open file!");
         $txt = $req->input('text');
         fwrite($myfile, $txt);
         fclose($myfile);
