@@ -88,7 +88,7 @@
                     <source src="/medias/vivok.mp3" type="audio/mpeg">
                 </audio>
                 <audio controls>
-                    <source src="/KH_WAV_RESULT.wav" type="audio/mpeg">
+                    <source src="TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav" type="audio/mpeg">
                 </audio>
 
                 <div class="links">

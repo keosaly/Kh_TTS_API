@@ -1,0 +1,341 @@
+Laravel development server started: http://10.5.5.27:80
+[Sun Apr 19 07:25:35 2020] 117.20.115.25:63301 [200]: /medias/vivok.mp3
+[Sun Apr 19 07:25:35 2020] 117.20.115.25:57330 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+Laravel development server started: http://10.5.5.27:80
+Laravel development server started: http://10.5.5.27:80
+[Sun Apr 19 07:34:23 2020] Failed to listen on 10.5.5.27:80 (reason: Address already in use)
+Laravel development server started: http://10.5.5.27:80
+[Sun Apr 19 07:35:16 2020] Failed to listen on 10.5.5.27:80 (reason: Address already in use)
+Laravel development server started: http://10.5.5.27:80
+[Sun Apr 19 07:37:53 2020] Failed to listen on 10.5.5.27:80 (reason: Address already in use)
+
+                                                     
+  Too many arguments, expected arguments "command".  
+                                                     
+
+Laravel development server started: http://10.5.5.27:80
+[Sun Apr 19 07:52:32 2020] Failed to listen on 10.5.5.27:80 (reason: Address already in use)
+[Sun Apr 19 11:33:21 2020] 117.20.115.25:58292 [200]: /TTS_DEMO/HTS_Demo/input.txt
+[Sun Apr 19 11:33:21 2020] 117.20.115.25:64255 Invalid request (Connection reset by peer)
+[Sun Apr 19 11:33:21 2020] 117.20.115.25:64273 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/input.txt
+[Sun Apr 19 11:33:21 2020] 66.102.6.67:40485 [200]: /favicon.ico
+[Sun Apr 19 12:26:10 2020] 27.109.113.174:41477 [200]: /medias/vivok.mp3
+[Sun Apr 19 12:26:10 2020] 27.109.113.174:41478 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Sun Apr 19 12:26:13 2020] 27.109.113.174:41479 [200]: /favicon.ico
+[Sun Apr 19 12:26:17 2020] 27.109.113.174:42410 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Sun Apr 19 12:26:17 2020] 27.109.113.174:58296 [200]: /medias/vivok.mp3
+[Sun Apr 19 12:26:18 2020] 27.109.113.174:58297 [200]: /favicon.ico
+[Sun Apr 19 12:29:36 2020] 27.109.113.174:42413 [200]: /medias/vivok.mp3
+[Sun Apr 19 12:29:36 2020] 27.109.113.174:58299 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Sun Apr 19 12:29:37 2020] 27.109.113.174:42414 [200]: /favicon.ico
+[Sun Apr 19 12:31:05 2020] 27.109.113.174:42415 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Sun Apr 19 12:40:05 2020] 27.109.113.174:58302 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Sun Apr 19 12:43:34 2020] 27.109.113.174:58304 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Sun Apr 19 12:43:48 2020] 27.109.113.174:58305 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Sun Apr 19 12:44:36 2020] 117.20.116.143:22372 [200]: /medias/vivok.mp3
+[Sun Apr 19 12:44:36 2020] 117.20.116.143:22373 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Sun Apr 19 12:44:52 2020] 117.20.116.143:22374 [200]: /favicon.ico
+[Sun Apr 19 12:44:57 2020] 117.20.116.143:22346 [200]: /favicon.ico
+[Sun Apr 19 12:44:58 2020] 117.20.116.143:22375 [200]: /favicon.ico
+[Sun Apr 19 12:48:47 2020] 117.20.116.143:22348 [200]: /medias/vivok.mp3
+[Sun Apr 19 12:48:47 2020] 117.20.116.143:22376 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Sun Apr 19 12:48:58 2020] 117.20.116.143:22377 [200]: /favicon.ico
+[Sun Apr 19 12:49:01 2020] 117.20.116.143:22349 [200]: /favicon.ico
+[Sun Apr 19 12:49:28 2020] 27.109.113.174:42420 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Sun Apr 19 12:50:22 2020] 27.109.113.174:42421 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Sun Apr 19 12:50:40 2020] 27.109.113.174:58308 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[94mWARNING:phonetisaurus-apply:2020-04-19 12:51:44[0m:  No pronunciation for word: '១៦'
+[94mWARNING:phonetisaurus-apply:2020-04-19 12:51:44[0m:  No pronunciation for word: 'ៗ'
+[Sun Apr 19 12:52:02 2020] 27.109.113.174:42423 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Sun Apr 19 12:53:52 2020] 27.109.113.174:58310 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Sun Apr 19 12:55:08 2020] 27.109.113.174:42425 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Sun Apr 19 12:55:55 2020] 27.109.113.174:42426 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Sun Apr 19 12:56:24 2020] 27.109.113.174:42427 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Sun Apr 19 12:59:03 2020] 27.109.113.174:42428 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Sun Apr 19 12:59:20 2020] 27.109.113.174:58314 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[94mWARNING:phonetisaurus-apply:2020-04-19 13:00:24[0m:  No pronunciation for word: '១៦'
+[94mWARNING:phonetisaurus-apply:2020-04-19 13:00:24[0m:  No pronunciation for word: 'ៗ'
+[Sun Apr 19 13:00:41 2020] 27.109.113.174:58315 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Mon Apr 20 02:18:31 2020] 66.102.6.71:57105 [200]: /favicon.ico
+[Tue Apr 21 02:58:28 2020] 66.102.6.67:63522 [200]: /favicon.ico
+[Wed Apr 22 03:21:12 2020] 27.109.113.71:2348 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 22 03:21:23 2020] 27.109.113.71:3338 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 22 03:22:04 2020] 27.109.113.71:2349 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[94mWARNING:phonetisaurus-apply:2020-04-22 03:22:43[0m:  No pronunciation for word: 'waxy'
+[94mWARNING:phonetisaurus-apply:2020-04-22 03:22:43[0m:  No pronunciation for word: '៖'
+[94mWARNING:phonetisaurus-apply:2020-04-22 03:22:43[0m:  No pronunciation for word: '-'
+[94mWARNING:phonetisaurus-apply:2020-04-22 03:22:43[0m:  No pronunciation for word: '-'
+[94mWARNING:phonetisaurus-apply:2020-04-22 03:22:43[0m:  No pronunciation for word: '-'
+[94mWARNING:phonetisaurus-apply:2020-04-22 03:22:43[0m:  No pronunciation for word: '-'
+[94mWARNING:phonetisaurus-apply:2020-04-22 03:22:43[0m:  No pronunciation for word: '-'
+[94mWARNING:phonetisaurus-apply:2020-04-22 03:22:43[0m:  No pronunciation for word: '៣០'
+[94mWARNING:phonetisaurus-apply:2020-04-22 03:22:43[0m:  No pronunciation for word: '-'
+[94mWARNING:phonetisaurus-apply:2020-04-22 03:22:43[0m:  No pronunciation for word: 'ៗ'
+[94mWARNING:phonetisaurus-apply:2020-04-22 03:22:43[0m:  No pronunciation for word: '៖'
+[94mWARNING:phonetisaurus-apply:2020-04-22 03:22:43[0m:  No pronunciation for word: '៖'
+[94mWARNING:phonetisaurus-apply:2020-04-22 03:22:43[0m:  No pronunciation for word: '-'
+[94mWARNING:phonetisaurus-apply:2020-04-22 03:22:43[0m:  No pronunciation for word: '-'
+[94mWARNING:phonetisaurus-apply:2020-04-22 03:22:43[0m:  No pronunciation for word: '-'
+[94mWARNING:phonetisaurus-apply:2020-04-22 03:22:43[0m:  No pronunciation for word: '-'
+[94mWARNING:phonetisaurus-apply:2020-04-22 03:22:43[0m:  No pronunciation for word: '-'
+[Wed Apr 22 03:23:04 2020] 27.109.113.71:3341 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 22 03:26:27 2020] 27.109.113.71:3342 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 22 03:26:55 2020] 27.109.113.71:2353 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 22 04:38:11 2020] 27.109.113.71:3344 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 22 04:52:48 2020] 27.109.113.71:3345 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[94mWARNING:phonetisaurus-apply:2020-04-22 04:53:20[0m:  No pronunciation for word: '៨'
+[94mWARNING:phonetisaurus-apply:2020-04-22 04:53:20[0m:  No pronunciation for word: '៣'
+[94mWARNING:phonetisaurus-apply:2020-04-22 04:53:20[0m:  No pronunciation for word: '៣០'
+[94mWARNING:phonetisaurus-apply:2020-04-22 04:53:20[0m:  No pronunciation for word: 'ៗ'
+[Wed Apr 22 04:53:30 2020] 27.109.113.71:3289 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 22 04:54:36 2020] 27.109.113.71:3291 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 22 04:55:01 2020] 27.109.113.71:3346 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Thu Apr 23 09:57:08 2020] 117.20.116.0:24488 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Thu Apr 23 09:57:22 2020] 117.20.116.0:25471 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[94mWARNING:phonetisaurus-apply:2020-04-23 09:57:46[0m:  No pronunciation for word: '៥'
+[94mWARNING:phonetisaurus-apply:2020-04-23 09:57:46[0m:  No pronunciation for word: '១៣'
+[94mWARNING:phonetisaurus-apply:2020-04-23 09:57:46[0m:  No pronunciation for word: '៦'
+[94mWARNING:phonetisaurus-apply:2020-04-23 09:57:46[0m:  No pronunciation for word: 'ៗ'
+[94mWARNING:phonetisaurus-apply:2020-04-23 09:57:46[0m:  No pronunciation for word: 'ៗ'
+[94mWARNING:phonetisaurus-apply:2020-04-23 09:57:46[0m:  No pronunciation for word: 'ៗ'
+[94mWARNING:phonetisaurus-apply:2020-04-23 09:57:46[0m:  No pronunciation for word: 'ៗ'
+[94mWARNING:phonetisaurus-apply:2020-04-23 09:57:46[0m:  No pronunciation for word: '១៥០០'
+[Thu Apr 23 09:58:08 2020] 117.20.116.0:25472 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Thu Apr 23 16:26:04 2020] 66.102.6.69:56251 [200]: /favicon.ico
+[94mWARNING:phonetisaurus-apply:2020-04-24 07:42:18[0m:  No pronunciation for word: '១៦'
+[94mWARNING:phonetisaurus-apply:2020-04-24 07:42:19[0m:  No pronunciation for word: 'ៗ'
+[Fri Apr 24 07:42:36 2020] 172.23.20.111:34242 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Fri Apr 24 07:43:04 2020] 172.23.20.111:34266 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[94mWARNING:phonetisaurus-apply:2020-04-24 07:43:18[0m:  No pronunciation for word: '១៦'
+[94mWARNING:phonetisaurus-apply:2020-04-24 07:43:18[0m:  No pronunciation for word: 'ៗ'
+[Fri Apr 24 07:43:35 2020] 172.23.20.111:34276 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Fri Apr 24 07:44:32 2020] 172.23.20.111:34298 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Fri Apr 24 07:45:04 2020] 172.23.20.111:34302 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Fri Apr 24 07:47:10 2020] 172.23.20.111:34330 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Fri Apr 24 08:45:47 2020] 66.102.6.69:37246 [200]: /favicon.ico
+[Fri Apr 24 11:58:48 2020] 66.102.6.71:53512 [200]: /favicon.ico
+[Fri Apr 24 13:31:07 2020] 66.102.6.71:46473 [200]: /favicon.ico
+[Fri Apr 24 14:34:17 2020] 66.102.6.71:57664 [200]: /favicon.ico
+[Sat Apr 25 02:01:32 2020] 66.102.6.67:63234 [200]: /favicon.ico
+[Sat Apr 25 03:44:01 2020] 66.102.6.71:64151 [200]: /favicon.ico
+[Sat Apr 25 11:44:20 2020] 66.102.6.67:49300 [200]: /favicon.ico
+[Sat Apr 25 11:45:17 2020] 66.102.6.69:39077 [200]: /favicon.ico
+[Sat Apr 25 12:57:32 2020] 66.102.6.67:42756 [200]: /favicon.ico
+[Sun Apr 26 07:34:54 2020] 66.102.6.71:34770 [200]: /favicon.ico
+[Sun Apr 26 11:08:35 2020] 66.102.6.71:53668 [200]: /favicon.ico
+[Sun Apr 26 11:27:38 2020] 66.102.6.67:57926 [200]: /favicon.ico
+[Sun Apr 26 13:18:43 2020] 66.102.6.69:52766 [200]: /favicon.ico
+[Mon Apr 27 02:20:52 2020] 66.102.6.67:45921 [200]: /favicon.ico
+[Mon Apr 27 08:07:57 2020] 66.102.6.71:60638 [200]: /favicon.ico
+[Mon Apr 27 12:25:44 2020] 66.102.6.69:35347 [200]: /favicon.ico
+[Mon Apr 27 14:28:21 2020] 66.102.6.69:35691 [200]: /favicon.ico
+[Tue Apr 28 05:45:02 2020] 66.102.6.71:56710 [200]: /favicon.ico
+[Tue Apr 28 13:17:33 2020] 66.102.6.71:40902 [200]: /favicon.ico
+[Wed Apr 29 06:00:47 2020] 172.23.20.111:38342 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[94mWARNING:phonetisaurus-apply:2020-04-29 06:01:01[0m:  No pronunciation for word: '១៦'
+[94mWARNING:phonetisaurus-apply:2020-04-29 06:01:01[0m:  No pronunciation for word: 'ៗ'
+[Wed Apr 29 06:01:18 2020] 172.23.20.111:38376 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 06:06:47 2020] 172.23.20.55:57217 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 06:07:07 2020] 172.23.20.55:57227 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 06:09:51 2020] 172.23.20.111:38518 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 06:10:06 2020] 172.23.20.111:38522 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 06:11:08 2020] 172.23.20.111:38530 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[94mWARNING:phonetisaurus-apply:2020-04-29 06:11:23[0m:  No pronunciation for word: 'waxy'
+[94mWARNING:phonetisaurus-apply:2020-04-29 06:11:23[0m:  No pronunciation for word: '៖'
+[94mWARNING:phonetisaurus-apply:2020-04-29 06:11:23[0m:  No pronunciation for word: '-'
+[94mWARNING:phonetisaurus-apply:2020-04-29 06:11:23[0m:  No pronunciation for word: '-'
+[94mWARNING:phonetisaurus-apply:2020-04-29 06:11:23[0m:  No pronunciation for word: '-'
+[94mWARNING:phonetisaurus-apply:2020-04-29 06:11:23[0m:  No pronunciation for word: '-'
+[94mWARNING:phonetisaurus-apply:2020-04-29 06:11:23[0m:  No pronunciation for word: '-'
+[94mWARNING:phonetisaurus-apply:2020-04-29 06:11:23[0m:  No pronunciation for word: '៣០'
+[94mWARNING:phonetisaurus-apply:2020-04-29 06:11:23[0m:  No pronunciation for word: '-'
+[94mWARNING:phonetisaurus-apply:2020-04-29 06:11:23[0m:  No pronunciation for word: 'ៗ'
+[94mWARNING:phonetisaurus-apply:2020-04-29 06:11:23[0m:  No pronunciation for word: '៖'
+[94mWARNING:phonetisaurus-apply:2020-04-29 06:11:23[0m:  No pronunciation for word: '៖'
+[94mWARNING:phonetisaurus-apply:2020-04-29 06:11:23[0m:  No pronunciation for word: '-'
+[94mWARNING:phonetisaurus-apply:2020-04-29 06:11:23[0m:  No pronunciation for word: '-'
+[94mWARNING:phonetisaurus-apply:2020-04-29 06:11:23[0m:  No pronunciation for word: '-'
+[94mWARNING:phonetisaurus-apply:2020-04-29 06:11:23[0m:  No pronunciation for word: '-'
+[94mWARNING:phonetisaurus-apply:2020-04-29 06:11:23[0m:  No pronunciation for word: '-'
+[Wed Apr 29 06:11:44 2020] 172.23.20.111:38534 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 06:13:18 2020] 172.23.20.55:57436 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 06:13:35 2020] 172.23.20.55:57462 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 06:15:27 2020] 172.23.20.55:57523 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 06:20:44 2020] 172.23.20.111:38552 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 06:21:12 2020] 172.23.20.111:38558 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 06:38:33 2020] 172.23.20.55:59099 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 06:45:38 2020] 172.23.20.55:59535 [200]: /favicon.ico
+[Wed Apr 29 06:48:07 2020] 172.23.20.55:59687 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 06:50:19 2020] 172.23.20.55:59815 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:08:35 2020] 172.23.20.55:61043 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:08:42 2020] 172.23.20.55:61048 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:09:03 2020] 172.23.20.55:61069 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:10:16 2020] 172.23.20.55:61146 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:10:38 2020] 172.23.20.55:61170 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:12:14 2020] 172.23.20.55:61267 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:12:57 2020] 172.23.20.55:61310 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:13:02 2020] 172.23.20.55:61316 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:13:09 2020] 172.23.20.55:61325 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:14:29 2020] 172.23.20.55:61450 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:14:35 2020] 172.23.20.55:61457 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:14:39 2020] 172.23.20.55:61462 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:14:42 2020] 172.23.20.55:61468 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:15:19 2020] 172.23.20.55:61506 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:15:26 2020] 172.23.20.55:61517 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:15:32 2020] 172.23.20.55:61524 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:16:00 2020] 172.23.20.55:61551 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:16:13 2020] 172.23.20.55:61568 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:17:00 2020] 172.23.20.55:61610 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:18:07 2020] 172.23.20.55:61865 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:18:22 2020] 172.23.20.55:61880 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:26:54 2020] 172.23.20.111:38746 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:27:01 2020] 172.23.20.111:38750 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:27:06 2020] 172.23.20.111:38754 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:28:47 2020] 172.23.20.111:38764 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:28:49 2020] 172.23.20.111:38768 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:28:53 2020] 172.23.20.111:38770 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:30:01 2020] 172.23.20.111:38782 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:30:05 2020] 172.23.20.111:38786 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:30:08 2020] 172.23.20.111:38798 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:33:02 2020] 172.23.20.111:38808 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:33:07 2020] 172.23.20.111:38812 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:33:12 2020] 172.23.20.111:38816 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:33:16 2020] 172.23.20.111:38820 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:33:22 2020] 172.23.20.111:38824 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:34:43 2020] 172.23.20.55:63058 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:34:43 2020] 172.23.20.55:63059 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:34:44 2020] 172.23.20.55:63060 [200]: /favicon.ico
+[Wed Apr 29 07:35:25 2020] 172.23.20.55:63272 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:35:26 2020] 172.23.20.55:63273 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:35:28 2020] 172.23.20.55:63277 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:35:28 2020] 172.23.20.55:63278 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:35:31 2020] 172.23.20.55:63282 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:35:31 2020] 172.23.20.55:63283 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:35:33 2020] 172.23.20.55:63287 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:35:33 2020] 172.23.20.55:63288 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:35:35 2020] 172.23.20.55:63289 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:35:35 2020] 172.23.20.55:63290 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:35:36 2020] 172.23.20.55:63294 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:35:37 2020] 172.23.20.55:63295 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:35:38 2020] 172.23.20.55:63298 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:35:38 2020] 172.23.20.55:63299 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:35:39 2020] 172.23.20.55:63303 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:35:39 2020] 172.23.20.55:63304 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:35:56 2020] 172.23.20.55:63321 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:35:56 2020] 172.23.20.55:63322 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:35:57 2020] 172.23.20.55:63324 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:35:57 2020] 172.23.20.55:63325 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:35:58 2020] 172.23.20.55:63326 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:35:58 2020] 172.23.20.55:63327 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:37:03 2020] 172.23.20.55:63395 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:37:03 2020] 172.23.20.55:63398 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:37:31 2020] 172.23.20.111:38850 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:37:37 2020] 172.23.20.55:63432 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:38:07 2020] 172.23.20.55:63460 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:38:13 2020] 172.23.20.55:63468 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:38:13 2020] 172.23.20.55:63469 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:38:15 2020] 172.23.20.55:63470 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:38:15 2020] 172.23.20.55:63471 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:38:15 2020] 172.23.20.55:63473 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:38:15 2020] 172.23.20.55:63474 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:38:19 2020] 172.23.20.55:63480 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:39:11 2020] 66.102.6.69:35569 [200]: /favicon.ico
+[Wed Apr 29 07:41:08 2020] 172.23.20.111:38894 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:41:20 2020] 172.23.20.111:38898 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:41:38 2020] 172.23.20.111:38904 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:42:21 2020] 172.23.20.111:38912 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:43:40 2020] 172.23.20.111:38916 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:43:49 2020] 172.23.20.111:38922 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:43:49 2020] 172.23.20.111:38924 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:43:56 2020] 172.23.20.111:38928 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 07:55:10 2020] 172.23.20.111:38944 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Wed Apr 29 15:29:41 2020] 66.102.6.67:36549 [200]: /favicon.ico
+[Thu Apr 30 01:49:20 2020] 66.102.6.71:43990 [200]: /favicon.ico
+[Thu Apr 30 01:49:55 2020] 66.102.6.71:37427 [200]: /favicon.ico
+[Thu Apr 30 06:32:45 2020] 66.102.6.71:56130 [200]: /favicon.ico
+[Thu Apr 30 07:23:26 2020] 66.102.6.71:59263 [200]: /favicon.ico
+[Thu Apr 30 07:25:15 2020] 66.102.6.69:60030 [200]: /favicon.ico
+[Fri May  1 15:17:13 2020] 64.233.172.236:62075 [200]: /favicon.ico
+[Sat May  2 04:39:11 2020] 198.108.67.48:61178 Invalid request (Connection reset by peer)
+[Sat May  2 09:46:24 2020] 64.233.172.234:37841 [200]: /favicon.ico
+[Sat May  2 11:14:23 2020] 64.233.172.236:64807 [200]: /favicon.ico
+[Sat May  2 11:16:21 2020] 64.233.172.236:61990 [200]: /favicon.ico
+[Sun May  3 02:53:34 2020] 117.20.112.13:33821 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Sun May  3 09:36:57 2020] 117.20.115.101:43561 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Sun May  3 09:36:57 2020] 117.20.115.101:43562 [200]: /medias/vivok.mp3
+[Sun May  3 09:36:58 2020] 117.20.115.101:43563 [200]: /favicon.ico
+[Sun May  3 10:33:56 2020] 64.233.172.234:39873 [200]: /favicon.ico
+[Mon May  4 03:13:34 2020] 64.233.172.236:52996 [200]: /favicon.ico
+[Mon May  4 06:51:37 2020] 64.233.172.236:52015 [200]: /favicon.ico
+[Mon May  4 08:09:06 2020] 64.233.172.236:57163 [200]: /favicon.ico
+[Mon May  4 08:21:04 2020] 64.233.172.238:56943 [200]: /favicon.ico
+[Tue May  5 13:44:07 2020] 66.102.6.67:39181 [200]: /favicon.ico
+[Wed May  6 02:58:30 2020] 66.102.6.71:41739 [200]: /favicon.ico
+[Wed May  6 04:32:56 2020] 66.102.6.67:50882 [200]: /favicon.ico
+[Wed May  6 04:36:26 2020] 66.102.6.71:59295 [200]: /favicon.ico
+[Wed May  6 11:25:50 2020] 66.102.6.67:54790 [200]: /favicon.ico
+[Wed May  6 17:30:20 2020] 66.102.6.69:49878 [200]: /favicon.ico
+[Thu May  7 01:19:52 2020] 198.108.67.48:30196 Invalid request (Connection reset by peer)
+[Thu May  7 02:58:53 2020] 66.102.6.71:45956 [200]: /favicon.ico
+[Thu May  7 10:20:58 2020] 66.102.6.67:46551 [200]: /favicon.ico
+[Fri May  8 04:38:40 2020] 64.233.172.234:59159 [200]: /favicon.ico
+[Fri May  8 09:29:29 2020] 64.233.172.236:63013 [200]: /favicon.ico
+[Fri May  8 15:57:51 2020] 69.4.93.212:55428 Invalid request (Malformed HTTP request)
+[Fri May  8 15:57:52 2020] 69.4.93.212:55463 Invalid request (Malformed HTTP request)
+[Fri May  8 15:57:52 2020] 69.4.93.212:55430 Invalid request (Malformed HTTP request)
+[Fri May  8 15:57:53 2020] 69.4.93.212:55506 Invalid request (Malformed HTTP request)
+[Sat May  9 05:34:24 2020] 69.4.93.212:54798 Invalid request (Malformed HTTP request)
+[Sat May  9 05:34:24 2020] 69.4.93.212:54799 Invalid request (Malformed HTTP request)
+[Sat May  9 05:34:25 2020] 69.4.93.212:54813 Invalid request (Malformed HTTP request)
+[Sat May  9 05:34:25 2020] 69.4.93.212:54815 Invalid request (Malformed HTTP request)
+[Sat May  9 11:22:19 2020] 64.233.172.238:40260 [200]: /favicon.ico
+[Sun May 10 10:37:33 2020] 64.233.172.236:62684 [200]: /favicon.ico
+[Sun May 10 13:58:13 2020] 64.233.172.234:37709 [200]: /favicon.ico
+[Mon May 11 02:32:24 2020] 64.233.172.234:50516 [200]: /favicon.ico
+[Mon May 11 06:08:11 2020] 64.233.172.234:38849 [200]: /favicon.ico
+[Mon May 11 07:52:25 2020] 64.233.172.234:37942 [200]: /favicon.ico
+[Mon May 11 07:52:52 2020] 64.233.172.234:57090 [200]: /favicon.ico
+[Mon May 11 12:49:43 2020] 64.233.172.236:48924 [200]: /favicon.ico
+[Mon May 11 13:47:05 2020] 64.233.172.236:61857 [200]: /favicon.ico
+[Tue May 12 01:35:49 2020] 64.233.172.238:62754 [200]: /favicon.ico
+[Tue May 12 05:04:42 2020] 198.108.67.48:57892 Invalid request (Connection reset by peer)
+[Tue May 12 06:21:58 2020] 64.233.172.236:64242 [200]: /favicon.ico
+[Tue May 12 13:08:46 2020] 198.20.99.130:52195 [200]: /favicon.ico
+[Tue May 12 16:20:48 2020] 202.53.146.145:19575 [200]: /TTS_DEMO/kh_new_seg/HTS_Demo/KH_WAV_RESULT.wav
+[Fri May 15 02:47:58 2020] 64.233.172.236:57956 [200]: /favicon.ico
+[Fri May 15 12:38:56 2020] 64.233.172.238:51648 [200]: /favicon.ico
+[Fri May 15 12:40:12 2020] 64.233.172.234:52654 [200]: /favicon.ico
+[Sat May 16 12:18:00 2020] 64.233.172.238:49202 [200]: /favicon.ico
+[Sat May 16 12:21:38 2020] 64.233.172.236:56381 [200]: /favicon.ico
+[94mWARNING:phonetisaurus-apply:2020-05-17 02:39:27[0m:  No pronunciation for word: '៨'
+[94mWARNING:phonetisaurus-apply:2020-05-17 02:39:27[0m:  No pronunciation for word: '៣'
+[94mWARNING:phonetisaurus-apply:2020-05-17 02:39:27[0m:  No pronunciation for word: '៣០'
+[94mWARNING:phonetisaurus-apply:2020-05-17 02:39:27[0m:  No pronunciation for word: 'ៗ'
+[94mWARNING:phonetisaurus-apply:2020-05-17 02:40:13[0m:  No pronunciation for word: '៨'
+[94mWARNING:phonetisaurus-apply:2020-05-17 02:40:13[0m:  No pronunciation for word: '៣'
+[94mWARNING:phonetisaurus-apply:2020-05-17 02:40:13[0m:  No pronunciation for word: '៣០'
+[94mWARNING:phonetisaurus-apply:2020-05-17 02:40:13[0m:  No pronunciation for word: 'ៗ'
+[94mWARNING:phonetisaurus-apply:2020-05-17 02:45:33[0m:  No pronunciation for word: '៨'
+[94mWARNING:phonetisaurus-apply:2020-05-17 02:45:33[0m:  No pronunciation for word: '៣'
+[94mWARNING:phonetisaurus-apply:2020-05-17 02:45:33[0m:  No pronunciation for word: '៣០'
+[94mWARNING:phonetisaurus-apply:2020-05-17 02:45:33[0m:  No pronunciation for word: 'ៗ'
+[94mWARNING:phonetisaurus-apply:2020-05-17 02:46:05[0m:  No pronunciation for word: '៨'
+[94mWARNING:phonetisaurus-apply:2020-05-17 02:46:05[0m:  No pronunciation for word: '៣'
+[94mWARNING:phonetisaurus-apply:2020-05-17 02:46:05[0m:  No pronunciation for word: '៣០'
+[94mWARNING:phonetisaurus-apply:2020-05-17 02:46:05[0m:  No pronunciation for word: 'ៗ'
+[94mWARNING:phonetisaurus-apply:2020-05-17 02:46:44[0m:  No pronunciation for word: '៨'
+[94mWARNING:phonetisaurus-apply:2020-05-17 02:46:44[0m:  No pronunciation for word: '៣'
+[94mWARNING:phonetisaurus-apply:2020-05-17 02:46:44[0m:  No pronunciation for word: '៣០'
+[94mWARNING:phonetisaurus-apply:2020-05-17 02:46:44[0m:  No pronunciation for word: 'ៗ'
+[Mon May 18 01:37:26 2020] 64.233.172.234:39618 [200]: /favicon.ico
+[Mon May 18 01:52:38 2020] 64.233.172.236:60162 [200]: /favicon.ico
+[Mon May 18 02:53:49 2020] 64.233.172.238:42736 [200]: /favicon.ico
+[Tue May 19 02:56:54 2020] 64.233.172.236:35071 [200]: /favicon.ico
+[Tue May 19 06:21:12 2020] 64.233.172.234:54312 [200]: /favicon.ico
+[Tue May 19 07:54:15 2020] 64.233.172.234:40161 [200]: /favicon.ico
+[Tue May 19 15:02:03 2020] 64.233.172.238:58419 [200]: /favicon.ico
+[Wed May 20 06:28:53 2020] 64.233.172.234:48197 [200]: /favicon.ico
+[Wed May 20 08:52:41 2020] 64.233.172.236:43155 [200]: /favicon.ico
+[Wed May 20 12:00:44 2020] 64.233.172.234:62507 [200]: /favicon.ico
+[Wed May 20 17:36:51 2020] 64.233.172.234:37451 [200]: /favicon.ico
+[Wed May 20 21:19:06 2020] 198.108.67.48:42072 Invalid request (Connection reset by peer)
